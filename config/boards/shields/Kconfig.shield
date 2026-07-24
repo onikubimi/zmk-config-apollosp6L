@@ -1,0 +1,2 @@
+config SHIELD_APOLLOSP6L
+    def_bool $(shields_list_contains,apollosp6l)
