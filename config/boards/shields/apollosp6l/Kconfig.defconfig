@@ -1,0 +1,6 @@
+if SHIELD_APOLLOSP6L
+
+config ZMK_KEYBOARD_NAME
+    default "ApolloSP6L"
+
+endif
