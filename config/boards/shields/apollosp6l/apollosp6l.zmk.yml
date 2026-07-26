@@ -7,8 +7,6 @@ requires:
 features:
   - keys
   - studio
-siblings:
-  - apollosp6l
 boards:
   - nice_nano_v2
   - nice_nano
